@@ -1,0 +1,12 @@
+.firstSection{
+   background-image: url(/background/background-header.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.portal{
+    background-image: url(/imgs/portal.png);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position-y: top;
+    background-position-x: center;
+}

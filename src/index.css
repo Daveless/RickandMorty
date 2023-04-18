@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: url(/background/background-page.png);
+    background-size: 150%;
+    background-position-x: center;
+    background-position-y: 30vh;
+}
